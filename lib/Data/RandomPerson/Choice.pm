@@ -76,7 +76,7 @@ This document refers to version 0.4 of Data::RandomPerson::Choice, released Sept
 
 =head2 Overview
 
-A way of simply defining the probablity of a selection of values based 
+A way of simply defining the probability of a selection of values based 
 on the ratio of the elements this add( 'this' ) adds one element to the
 list, the count argument of add defaults to 1. add( 'that', 11 ) adds
 another 11 elements to the list giving a total of 12. The chance of
